@@ -1,1 +1,6 @@
 Cricket
+FootBall
+VollyBall
+Hockey
+Carrom
+Runner
